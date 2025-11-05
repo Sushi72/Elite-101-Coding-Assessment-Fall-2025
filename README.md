@@ -15,3 +15,5 @@ This is the starter repo for the Elite 101 internship coding assessment. You wil
 ## Challenge Overview
 
 See the full challenge PDF for detailed instructions and requirements.
+
+## Hello!
